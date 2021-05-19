@@ -1,0 +1,13 @@
+/root/cases/cases/bin/Debug/netcoreapp3.1/cases
+/root/cases/cases/bin/Debug/netcoreapp3.1/cases.deps.json
+/root/cases/cases/bin/Debug/netcoreapp3.1/cases.runtimeconfig.json
+/root/cases/cases/bin/Debug/netcoreapp3.1/cases.runtimeconfig.dev.json
+/root/cases/cases/bin/Debug/netcoreapp3.1/cases.dll
+/root/cases/cases/bin/Debug/netcoreapp3.1/cases.pdb
+/root/cases/cases/obj/Debug/netcoreapp3.1/cases.csprojAssemblyReference.cache
+/root/cases/cases/obj/Debug/netcoreapp3.1/cases.AssemblyInfoInputs.cache
+/root/cases/cases/obj/Debug/netcoreapp3.1/cases.AssemblyInfo.cs
+/root/cases/cases/obj/Debug/netcoreapp3.1/cases.csproj.CoreCompileInputs.cache
+/root/cases/cases/obj/Debug/netcoreapp3.1/cases.dll
+/root/cases/cases/obj/Debug/netcoreapp3.1/cases.pdb
+/root/cases/cases/obj/Debug/netcoreapp3.1/cases.genruntimeconfig.cache
